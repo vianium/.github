@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions
+    url: https://github.com/vianium/vianium-docs/discussions
+    about: Questions, ideas, and design conversations across the ecosystem.
+  - name: Security report
+    url: https://github.com/vianium/.github/blob/main/SECURITY.md
+    about: Vulnerability reports go to hello@angelcareaga.com, not public issues.
